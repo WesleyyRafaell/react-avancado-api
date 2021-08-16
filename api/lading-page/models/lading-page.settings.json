@@ -63,6 +63,12 @@
       "repeatable": false,
       "component": "page.pricing-box",
       "required": true
+    },
+    "sectionAbout": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-about",
+      "required": true
     }
   }
 }
